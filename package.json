@@ -1,0 +1,23 @@
+{
+  "name": "er",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bastienmichaux/er.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bastienmichaux/er/issues"
+  },
+  "homepage": "https://github.com/bastienmichaux/er#readme",
+  "devDependencies": {
+    "electron": "^9.0.5"
+  }
+}
